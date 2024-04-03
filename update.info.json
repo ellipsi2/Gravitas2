@@ -1,0 +1,250 @@
+{
+  "mods": {
+    "updates": [
+      {
+        "name": "gtceu-1.20.1-1.1.4.b",
+        "info": {
+          "patch": { "project": 890405, "file": 5225057 },
+          "replace": ["gtceu-1.20.1-1.1.3.b"]
+        }
+      },
+      {
+        "name": "AdvancedTFCTech-1.20.1-2.2",
+        "info": {
+          "patch": { "project": 862559, "file": 5173491 },
+          "replace": ["AdvancedTFCTech-1.20.1-2.1"]
+        }
+      },
+      {
+        "name": "allthetweaks-1.20.1-47.2.20-2.2.2",
+        "info": {
+          "patch": { "project": 364120, "file": 5182191 },
+          "replace": ["allthetweaks-1.20.1-47.1.25-2.2.0"]
+        }
+      },
+      {
+        "name": "almostunified-forge-1.20.1-0.9.2",
+        "info": {
+          "patch": { "project": 633823, "file": 5190743 },
+          "replace": ["almostunified-forge-1.20.1-0.8.1"]
+        }
+      },
+      {
+        "name": "Apotheosis-1.20.1-7.3.4",
+        "info": {
+          "patch": { "project": 313970, "file": 5209354 },
+          "replace": ["Apotheosis-1.20.1-7.3.1"]
+        }
+      },
+      {
+        "name": "ApothicAttributes-1.20.1-1.3.4",
+        "info": {
+          "patch": { "project": 898963, "file": 5209162 },
+          "replace": ["ApothicAttributes-1.20.1-1.3.0"]
+        }
+      },
+      {
+        "name": "appliedenergistics2-forge-15.1.0",
+        "info": {
+          "patch": { "project": 223794, "file": 5228596 },
+          "replace": ["appliedenergistics2-forge-15.0.21"]
+        }
+      },
+      {
+        "name": "athena-forge-1.20.1-3.1.2",
+        "info": {
+          "patch": { "project": 841890, "file": 5176879 },
+          "replace": ["athena-forge-1.20.1-3.1.1"]
+        }
+      },
+      {
+        "name": "create_connected-0.7.4-mc1.20.1-all",
+        "info": {
+          "patch": { "project": 947914, "file": 5199640 },
+          "replace": ["create_connected-0.7.2-mc1.20.1-all"]
+        }
+      },
+      {
+        "name": "createmoredrillheads-2.0.3-1.20.1",
+        "info": { "patch": { "project": 841298, "file": 5101400 } }
+      },
+      {
+        "name": "CreativeCore_FORGE_v2.11.25_mc1.20.1",
+        "info": {
+          "patch": {
+            "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/ERTYohOX/CreativeCore_FORGE_v2.11.25_mc1.20.1.jar"
+          },
+          "replace": ["CreativeCore_FORGE_v2.11.24_mc1.20.1"]
+        }
+      },
+      {
+        "name": "cupboard-1.20.1-2.6",
+        "info": {
+          "patch": { "project": 326652, "file": 5170315 },
+          "replace": ["cupboard-1.20.1-2.5"]
+        }
+      },
+      {
+        "name": "curios-forge-5.7.2+1.20.1",
+        "info": {
+          "patch": { "project": 309927, "file": 5175956 },
+          "replace": ["curios-forge-5.7.0+1.20.1"]
+        }
+      },
+      {
+        "name": "EnderIO-1.20.1-6.0.25-alpha",
+        "info": {
+          "patch": { "project": 64578, "file": 5171872 },
+          "replace": ["EnderIO-1.20.1-6.0.24-alpha"]
+        }
+      },
+      {
+        "name": "ExtendedAE-1.20-1.0.18-forge",
+        "info": {
+          "patch": { "project": 892005, "file": 5212013 },
+          "replace": ["ExtendedAE-1.20-1.0.13-forge"]
+        }
+      },
+      {
+        "name": "fallingtrees-0.11-forge-1.20",
+        "info": { "patch": { "project": 880630, "file": 5228076 } }
+      },
+      {
+        "name": "FramedBlocks-9.2.1",
+        "info": {
+          "patch": { "project": 441647, "file": 5165696 },
+          "replace": ["FramedBlocks-9.2.0"]
+        }
+      },
+      {
+        "name": "ftb-chunks-forge-2001.2.7",
+        "info": {
+          "patch": { "project": 314906, "file": 5210496 },
+          "replace": ["ftb-chunks-forge-2001.2.5"]
+        }
+      },
+      {
+        "name": "ftb-quests-forge-2001.3.4",
+        "info": {
+          "patch": { "project": 289412, "file": 5179584 },
+          "replace": ["ftb-quests-forge-2001.3.3"]
+        }
+      },
+      {
+        "name": "ftb-teams-forge-2001.2.0",
+        "info": {
+          "patch": { "project": 404468, "file": 5176343 },
+          "replace": ["ftb-teams-forge-2001.1.4"]
+        }
+      },
+      {
+        "name": "gregitas-core-1.0.35",
+        "info": {
+          "patch": { "project": 971938, "file": 5216112 },
+          "replace": ["gregitas-core-1.0.33"]
+        }
+      },
+      {
+        "name": "lootr-forge-1.20-0.7.33.83",
+        "info": {
+          "patch": { "project": 361276, "file": 5221691 },
+          "replace": ["lootr-1.20-0.7.31.78"]
+        }
+      },
+      {
+        "name": "mcw_tfc_aio-0.2.30-1.20.1",
+        "info": {
+          "patch": { "project": 908983, "file": 5196201 },
+          "replace": ["mcw_tfc_aio-0.2.14-1.20.1"]
+        }
+      },
+      {
+        "name": "modernfix-forge-5.15.0+mc1.20.1",
+        "info": {
+          "patch": { "project": 790626, "file": 5203332 },
+          "replace": ["modernfix-forge-5.14.0+mc1.20.1"]
+        }
+      },
+      {
+        "name": "moonlight-1.20-2.11.9-forge",
+        "info": {
+          "patch": { "project": 499980, "file": 5201144 },
+          "replace": ["moonlight-1.20-2.10.10-forge"]
+        }
+      },
+      {
+        "name": "morejs-forge-1.20.1-0.8.0",
+        "info": {
+          "patch": { "project": 666198, "file": 5203597 },
+          "replace": ["morejs-forge-1.20.1-0.6.0"]
+        }
+      },
+      {
+        "name": "pandalib-0.2-forge-1.20",
+        "info": { "patch": { "project": 975460, "file": 5225466 } }
+      },
+      {
+        "name": "player-animation-lib-forge-1.0.2-rc1+1.20",
+        "info": { "patch": { "project": 658587, "file": 4587214 } }
+      },
+      {
+        "name": "PuzzlesLib-v8.1.18-1.20.1-Forge",
+        "info": {
+          "patch": { "project": 495476, "file": 5197362 },
+          "replace": ["PuzzlesLib-v8.1.17-1.20.1-Forge"]
+        }
+      },
+      {
+        "name": "Sitting+1.0.2",
+        "info": { "patch": { "project": 946727, "file": 5211223 } }
+      },
+      {
+        "name": "sophisticatedbackpacks-1.20.1-3.20.3.1034",
+        "info": { "patch": { "project": 422301, "file": 5194760 } }
+      },
+      {
+        "name": "sophisticatedcore-1.20.1-0.6.12.589",
+        "info": { "patch": { "project": 618298, "file": 5206384 } }
+      },
+      {
+        "name": "sparsestructuresreforged-1.20.1-0.0.1",
+        "info": {
+          "patch": { "project": 912104, "file": 5179463 },
+          "replace": ["sparsestructuresreforged-1.20.1-1.0.0"]
+        }
+      },
+      {
+        "name": "Stargate Journey-1.20.1-0.6.22",
+        "info": {
+          "patch": { "project": 689083, "file": 5189868 },
+          "replace": ["Stargate Journey-1.20.1-0.6.21"]
+        }
+      },
+      {
+        "name": "TFCThermalDeposits-1.20.1-1.3.11",
+        "info": {
+          "patch": { "project": 962578, "file": 5209888 },
+          "replace": ["TFCThermalDeposits-1.20.1-1.3.8"]
+        }
+      },
+      {
+        "name": "vintageimprovements-1.20.1-0.1.3.3",
+        "info": {
+          "patch": { "project": 946579, "file": 5210692 },
+          "replace": ["vintageimprovements-1.20.1-0.1.2.0"]
+        }
+      }
+    ],
+    "removes": []
+  },
+  "extras": {
+    "updates": [
+      "config",
+      "defaultconfigs",
+      "kubejs",
+      "ldlib",
+      "packmenu"
+    ]
+  },
+  "meta": { "updateSelf": "0.0.0" }
+}
