@@ -40,3 +40,4 @@ package-lock.json
 package.json
 node-tail.js
 /icon-exports-x32
+.editorconfig
