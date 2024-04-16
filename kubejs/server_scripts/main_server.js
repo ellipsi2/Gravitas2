@@ -20,6 +20,7 @@ LootJS.modifiers((event) => {
   modifyAndRemoveChestLoot(event)
   modifyAndRemoveBlockLoot(event)
   modifyAndRemoveEntityLoot(event)
+  modifyAndRemoveFishingLoot(event)
   modifyAndRemoveCustomLoot(event)
 })
 
