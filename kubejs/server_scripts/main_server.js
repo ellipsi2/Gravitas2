@@ -20,7 +20,11 @@ LootJS.modifiers((event) => {
   modifyAndRemoveChestLoot(event)
   modifyAndRemoveBlockLoot(event)
   modifyAndRemoveEntityLoot(event)
+<<<<<<< HEAD
   modifyAndRemoveCustomLoot(event)
+=======
+  modifyAndRemoveFishingLoot(event)
+>>>>>>> 8fb47f3456c7fd71ace46641556ef0386cadd5fa
 })
 
 ServerEvents.tags("worldgen/biome", (event) => {
